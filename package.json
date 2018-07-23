@@ -9,14 +9,17 @@
   "author": "Dave Bennett",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-jwt": "^5.3.1",
-    "express-validator": "^5.1.2",
-    "jsonwebtoken": "^8.2.1"
+    "express-validator": "^5.2.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.3.0"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.10.0"
+    "eslint-plugin-import": "^2.13.0"
   }
 }
